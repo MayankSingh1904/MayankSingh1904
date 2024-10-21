@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, my name is Mayank</h1>
 <h3 align="center">I am a passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fcode-fi-lofi-beats-to-coderelax-to-FvBVst&psig=AOvVaw1AWEsiZHf4bVQ-MQraoBtY&ust=1729580057248000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiw-fzxnokDFQAAAAAdAAAAABAc.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanksingh1904&label=Profile%20views&color=0e75b6&style=flat" alt="mayanksingh1904" /> </p>
