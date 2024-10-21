@@ -1,7 +1,7 @@
 ![logo](https://i.pinimg.com/originals/02/87/d3/0287d3ba8b3330fca99f69e2001d3168.gif)
 <h1 align="center">Hi 👋, my name is Mayank</h1>
 <h3 align="center">I am a passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanksingh1904&label=Profile%20views&color=0e75b6&style=flat" alt="mayanksingh1904" /> </p>
